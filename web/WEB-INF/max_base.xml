@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<schools>
+    <school_id id="1">
+        <name>Liceum im.KEN</name>
+        <type>liceum</type>
+        <address>24-100</address>
+        <town>Pulawy</town>
+        <town_district>Lubelskie</town_district>
+        <street>Lubelska 5</street>
+        <number>9</number>
+        <ispublic>Yes</ispublic>
+    </school_id>
+        <school_id id="2">
+        <name>Liceum im.Aleksandra Czartoryskiego</name>
+        <type>prywatne</type>
+        <address>24-100</address>
+        <town>Pulawy</town>
+        <town_district>Lubelskie</town_district>
+         <street>Sklodowskiej 12</street>
+        <number>6</number>
+        <ispublic>No</ispublic>
+    </school_id>
+        <school_id id="3">
+        <name>Szkola dla doroslych</name>
+        <type>prywatna</type>
+        <address>24-100</address>
+        <town>Pulawy</town>
+        <town_district>Lubelskie</town_district>
+         <street>Parkowa 5</street>
+        <number>1</number>
+        <ispublic>No</ispublic>
+    </school_id>
+        <school_id id="4">
+        <name>Szkola Zawodowa</name>
+        <type>prywatna</type>
+        <address>24-100</address>
+        <town>Pulawy</town>
+        <town_district>Lubelskie</town_district>
+         <street>Lesna 16</street>
+        <number>7</number>
+        <ispublic>No</ispublic>
+        </school_id>
+</schools> 
+
